@@ -1,5 +1,5 @@
-HI THIS IS LELE 💫🌟🌸🌼💛🧡
-IT ENGINEERING STUDENT AT UNIBO 
+HI THIS IS LELE
+COMPUTER ENGINEERING STUDENT AT UNIBO 
 
 gabriele.nunziati@protonmail.com
 
