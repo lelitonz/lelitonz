@@ -1,7 +1,6 @@
 HI THIS IS LELE
 COMPUTER ENGINEERING STUDENT AT UNIBO 
 
-gabriele.nunziati@protonmail.com
 
 <!---
 lelitonz/lelitonz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
